@@ -1,2 +1,2 @@
 #! /bin/bash
-echo 'Hello, this is my first shell script'
+echo 'Hello world on Ubuntu WSL'
